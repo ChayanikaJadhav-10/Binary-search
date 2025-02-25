@@ -25,3 +25,5 @@ def binary_search(data,target):
     return -1
             
 binary_search(data, target)
+
+abc = 1234
